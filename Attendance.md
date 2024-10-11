@@ -3,3 +3,4 @@
 Himesh Parashar
 Isha Pandey
 Aayush Soni
+Manan Jain
